@@ -3,6 +3,7 @@
     <style name="Base.Theme.FluxUnitConverter" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/flux_primary_dark</item>
     </style>
 
     <style name="Theme.FluxUnitConverter" parent="Base.Theme.FluxUnitConverter" />

@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FluxUnitConverter</string>
+    <string name="flux_unit_converter">Flux Unit Converter</string>
+    <string name="tap_to_continue">Tap to continue</string>
+    <string name="about">About</string>
+    <string name="select_a_unit">Select a unit</string>
+    <string name="mass">Mass</string>
+    <string name="length">Length</string>
+    <string name="temperature">Temperature</string>
+    <string name="volume">Volume</string>
+    <string name="area">Area</string>
+    <string name="speed">Speed</string>
+    <string name="time">Time</string>
+    <string name="pressure">Pressure</string>
+    <string name="storage">Storage</string>
 </resources>

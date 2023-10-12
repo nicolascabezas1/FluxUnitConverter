@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="flux_primary_light">#FFF9EF</color>
+    <color name="flux_secondary_light">#E2F6FF</color>
+    <color name="flux_light_blue">#A2C0DB</color>
+    <color name="flux_dark_light">#404B65</color>
+    <color name="flux_primary_dark">#252869</color>
 </resources>
